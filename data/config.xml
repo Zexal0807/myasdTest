@@ -19,7 +19,7 @@
 	<allow-navigation href="https://*/*" />
 	
 	<preference name="android-build-tool" value="ant|gradle" />
-	<preference name="android-minSdkVersion" value="10" />
+	<preference name="android-minSdkVersion" value="20" />
 	<preference name="android-targetSdkVersion" value="28" />
 	<preference name="HeaderColor" value="#ff2626" />
 	
