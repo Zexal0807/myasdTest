@@ -11,6 +11,8 @@
 	
 	<plugin name="cordova-plugin-headercolor" spec="1.0" />
 	<plugin name="cordova-plugin-whitelist" spec="1.3.4" />
+
+	<plugin name="cordova-plugin-crosswalk-webview"/>	
 	
 	<access origin="*" launch-external="no"/>
 	<allow-navigation href="http://*/*" />
